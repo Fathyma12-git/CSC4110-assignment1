@@ -8,6 +8,7 @@ using namespace std;
 // where the execution of program begins 
 int main() 
 { 
+    // Author: Fathyma Akther < fw4454@wayne.edu>
     // prints hello world 
     cout<<"Hello World!"; 
       
